@@ -1,0 +1,8 @@
+{
+    "name": "t0114410/exe2",
+    "description": "exe2",
+    "autoload":{
+        "psr-4": {"Main\\": "src/"}
+    },
+    "require": {}
+}
