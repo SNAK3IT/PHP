@@ -1,0 +1,9 @@
+{
+    "name": "asdsa/asdsa",
+    "description": "asd",
+    "autoload":{
+        "psr-4": {"Atec\\": "src/"}
+    },
+
+    "require": {}
+}
