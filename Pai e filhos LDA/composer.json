@@ -1,0 +1,5 @@
+{
+    "name": "teste/outra_turma",
+    "autoload":{ "psr-4": {"web\\": "src/"} },
+    "require": {}
+}

@@ -1,0 +1,5 @@
+{
+    "name": "pedro/libraria",
+    "autoload": {"psr-4": {"lib\\":"src/"}},
+    "require": {}
+}

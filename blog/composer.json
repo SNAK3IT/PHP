@@ -1,0 +1,8 @@
+{
+    "name": "t0114410/blog",
+    "description": "Super Blog",
+    "autoload": {
+        "psr-4": {"Blog\\":"SRC/"}
+    },
+    "require": {}
+}
